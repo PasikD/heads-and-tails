@@ -4,7 +4,7 @@
 Данные результатов хранятся в массиве
 Результат игры отображается во всплывающем онке (alert)
 
-<img width="317" alt="image" src="https://github.com/user-attachments/assets/d6f76dd3-e642-447c-9470-eabe18320357" />
+<img width="325" alt="image" src="https://github.com/user-attachments/assets/f14b1708-4f8c-4a2f-846c-15e2d8df267c" />
 <img width="323" alt="image" src="https://github.com/user-attachments/assets/984820c5-d84f-4cd8-98b9-aee1f6b82acd" />
 <img width="330" alt="image" src="https://github.com/user-attachments/assets/9b9cbe69-24e3-4c45-b5b0-1112928badd0" />
 <img width="324" alt="image" src="https://github.com/user-attachments/assets/1fac1ca4-a654-4c5c-a9bf-438916a47280" />
